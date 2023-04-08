@@ -1,4 +1,4 @@
-#Getting started
+# Getting started
 
 You must configure your environment to handle react-native, you can check the documentation [here](https://reactnative.dev/docs/environment-setup).
 
